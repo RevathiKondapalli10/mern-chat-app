@@ -20,8 +20,8 @@
 		"jsonwebtoken": "^9.0.2",
 		"mongoose": "^8.1.1",
 		"socket.io": "^4.8.1",
-		"socket.io-client": "^4.8.1",
-    "proxy": "https://chat-app-yt.onrender.com"
+		"socket.io-client": "^4.8.1"
+   
 
 	},
 	"devDependencies": {
